@@ -1,0 +1,7 @@
+
+train: D:\ANPRdeepl\anpr\dataset\train\images
+val: D:\ANPRdeepl\anpr\dataset\valid\images
+test: D:\ANPRdeepl\anpr\dataset\test\images
+
+nc: 1
+names: ['licence']
